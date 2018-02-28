@@ -2,8 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="41afbc67-35cb-4cff-b55e-5c5121a3669a" name="Default" comment="">
+      <change afterPath="$PROJECT_DIR$/Golang/01 Basic Algorithm/13 Falsy Bouncer/readme.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JS/01 Basic Algorithm/13 Falsy Bouncer/falsy_bouncer.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JS/01 Basic Algorithm/13 Falsy Bouncer/readme.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/readme.md" beforeDir="false" afterPath="$PROJECT_DIR$/readme.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JS/01 Basic Algorithm/11 Slasher Flick/slasher_flick.go" beforeDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -14,35 +17,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="mutations.go" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Golang/01 Basic Algorithm/12 Mutations/mutations.go">
+      <file leaf-file-name="falsy_bouncer.js" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/JS/01 Basic Algorithm/13 Falsy Bouncer/falsy_bouncer.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="273">
-              <caret line="13" column="61" selection-start-line="13" selection-start-column="61" selection-end-line="13" selection-end-column="61" />
-              <folding>
-                <element signature="e#14#42#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="mutations.js" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/JS/01 Basic Algorithm/12 Mutations/mutations.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="252">
-              <caret line="12" selection-start-line="12" selection-end-line="12" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="readme.md" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/readme.md">
-          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-            <state split_layout="SPLIT">
-              <first_editor relative-caret-position="42">
-                <caret line="2" column="5" selection-start-line="2" selection-start-column="5" selection-end-line="2" selection-end-column="5" />
-              </first_editor>
-              <second_editor />
+            <state relative-caret-position="63">
+              <caret line="3" column="16" selection-start-line="3" selection-start-column="16" selection-end-line="3" selection-end-column="16" />
             </state>
           </provider>
         </entry>
@@ -71,6 +50,11 @@
         <option value="$PROJECT_DIR$/JS/01 Basic Algorithm/12 Mutations/mutations.js" />
         <option value="$PROJECT_DIR$/Golang/01 Basic Algorithm/12 Mutations/mutations.go" />
         <option value="$PROJECT_DIR$/readme.md" />
+        <option value="$PROJECT_DIR$/JS/01 Basic Algorithm/13 Falsy Bouncer/readme.md" />
+        <option value="$PROJECT_DIR$/Golang/01 Basic Algorithm/13 Falsy Bouncer/falsy_bouncer.go" />
+        <option value="$PROJECT_DIR$/Golang/01 Basic Algorithm/13 Falsy Bouncer/readme.md" />
+        <option value="$PROJECT_DIR$/JS/01 Basic Algorithm/13 Falsy Bouncer/falsey_bouncer.js" />
+        <option value="$PROJECT_DIR$/JS/01 Basic Algorithm/13 Falsy Bouncer/falsy_bouncer.js" />
       </list>
     </option>
   </component>
@@ -84,7 +68,9 @@
     <option name="width" value="1440" />
     <option name="height" value="900" />
   </component>
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
@@ -96,6 +82,42 @@
             <path>
               <item name="Free Code Camp" type="b2602c69:ProjectViewProjectNode" />
               <item name="Free Code Camp" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Free Code Camp" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Free Code Camp" type="462c0819:PsiDirectoryNode" />
+              <item name="JS" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Free Code Camp" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Free Code Camp" type="462c0819:PsiDirectoryNode" />
+              <item name="JS" type="462c0819:PsiDirectoryNode" />
+              <item name="01 Basic Algorithm" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Free Code Camp" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Free Code Camp" type="462c0819:PsiDirectoryNode" />
+              <item name="JS" type="462c0819:PsiDirectoryNode" />
+              <item name="01 Basic Algorithm" type="462c0819:PsiDirectoryNode" />
+              <item name="11 Slasher Flick" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Free Code Camp" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Free Code Camp" type="462c0819:PsiDirectoryNode" />
+              <item name="JS" type="462c0819:PsiDirectoryNode" />
+              <item name="01 Basic Algorithm" type="462c0819:PsiDirectoryNode" />
+              <item name="12 Mutations" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Free Code Camp" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Free Code Camp" type="462c0819:PsiDirectoryNode" />
+              <item name="JS" type="462c0819:PsiDirectoryNode" />
+              <item name="01 Basic Algorithm" type="462c0819:PsiDirectoryNode" />
+              <item name="13 Falsy Bouncer" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Free Code Camp" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
             </path>
           </expand>
           <select />
@@ -112,6 +134,7 @@
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/Golang/01 Basic Algorithm" />
       <recent name="$PROJECT_DIR$/JS/01 Basic Algorithm" />
       <recent name="$PROJECT_DIR$/JS" />
     </key>
@@ -160,7 +183,7 @@
     <frame x="0" y="0" width="1440" height="900" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.27110156" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.27110156" />
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="right" id="Cargo" order="3" />
       <window_info anchor="bottom" id="Event Log" order="7" side_tool="true" />
@@ -169,7 +192,7 @@
       <window_info anchor="bottom" id="Version Control" order="7" />
       <window_info anchor="bottom" id="Run" order="2" weight="0.32889965" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info active="true" anchor="bottom" id="Terminal" order="7" visible="true" weight="0.32889965" />
+      <window_info anchor="bottom" id="Terminal" order="7" visible="true" weight="0.32889965" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -272,13 +295,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/JS/01 Basic Algorithm/11 Slasher Flick/slasher_flick.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="63">
-          <caret line="3" column="35" selection-start-line="3" selection-start-column="35" selection-end-line="3" selection-end-column="35" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Golang/01 Basic Algorithm/12 Mutations/problem.md">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="126">
@@ -296,13 +312,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/JS/01 Basic Algorithm/12 Mutations/mutations.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="252">
-          <caret line="12" selection-start-line="12" selection-end-line="12" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/readme.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
@@ -310,6 +319,60 @@
             <caret line="2" column="5" selection-start-line="2" selection-start-column="5" selection-end-line="2" selection-end-column="5" />
           </first_editor>
           <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Golang/01 Basic Algorithm/13 Falsy Bouncer/falsy_bouncer.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="84">
+          <caret line="4" column="17" selection-start-line="4" selection-start-column="17" selection-end-line="4" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/JS/01 Basic Algorithm/13 Falsy Bouncer/readme.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="42">
+            <caret line="2" column="70" selection-start-line="2" selection-start-column="70" selection-end-line="2" selection-end-column="70" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Golang/01 Basic Algorithm/13 Falsy Bouncer/readme.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="84">
+            <caret line="4" column="101" selection-start-line="4" selection-start-column="101" selection-end-line="4" selection-end-column="101" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/JS/01 Basic Algorithm/09 Truncate String/truncate.js">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/JS/01 Basic Algorithm/10 Chunky Monkey/chunky_monkey.js">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/JS/01 Basic Algorithm/11 Slasher Flick/slasher_flick.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="63">
+          <caret line="3" column="35" selection-start-line="3" selection-start-column="35" selection-end-line="3" selection-end-column="35" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/JS/01 Basic Algorithm/12 Mutations/mutations.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="252">
+          <caret line="12" selection-start-line="12" selection-end-line="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/JS/01 Basic Algorithm/13 Falsy Bouncer/falsy_bouncer.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="63">
+          <caret line="3" column="16" selection-start-line="3" selection-start-column="16" selection-end-line="3" selection-end-column="16" />
         </state>
       </provider>
     </entry>
