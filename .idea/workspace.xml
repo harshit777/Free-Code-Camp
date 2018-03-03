@@ -2,11 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="41afbc67-35cb-4cff-b55e-5c5121a3669a" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/Go/01 Basic Algorithm/16 Caesars Cipher/caesars_cipher.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Go/01 Basic Algorithm/16 Caesars Cipher/readme.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JS/01 Basic Algorithm/16 Caesars Cipher/ceaser_cipher.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JS/01 Basic Algorithm/16 Caesars Cipher/readme.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JS/01 Basic Algorithm/16 Caesars Cipher/ceaser_cipher.js" beforeDir="false" afterPath="$PROJECT_DIR$/JS/01 Basic Algorithm/16 Caesars Cipher/ceaser_cipher.js" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -32,8 +28,8 @@
       <file leaf-file-name="ceaser_cipher.js" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/JS/01 Basic Algorithm/16 Caesars Cipher/ceaser_cipher.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="441">
-              <caret line="21" column="13" selection-start-line="21" selection-start-column="13" selection-end-line="21" selection-end-column="13" />
+            <state relative-caret-position="462">
+              <caret line="22" column="89" selection-start-line="22" selection-start-column="89" selection-end-line="22" selection-end-column="89" />
             </state>
           </provider>
         </entry>
@@ -104,42 +100,6 @@
             <path>
               <item name="Free Code Camp" type="b2602c69:ProjectViewProjectNode" />
               <item name="Free Code Camp" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Free Code Camp" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Free Code Camp" type="462c0819:PsiDirectoryNode" />
-              <item name="Go" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Free Code Camp" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Free Code Camp" type="462c0819:PsiDirectoryNode" />
-              <item name="Go" type="462c0819:PsiDirectoryNode" />
-              <item name="01 Basic Algorithm" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Free Code Camp" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Free Code Camp" type="462c0819:PsiDirectoryNode" />
-              <item name="Go" type="462c0819:PsiDirectoryNode" />
-              <item name="01 Basic Algorithm" type="462c0819:PsiDirectoryNode" />
-              <item name="16 Caesars Cipher" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Free Code Camp" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Free Code Camp" type="462c0819:PsiDirectoryNode" />
-              <item name="JS" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Free Code Camp" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Free Code Camp" type="462c0819:PsiDirectoryNode" />
-              <item name="JS" type="462c0819:PsiDirectoryNode" />
-              <item name="01 Basic Algorithm" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Free Code Camp" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Free Code Camp" type="462c0819:PsiDirectoryNode" />
-              <item name="JS" type="462c0819:PsiDirectoryNode" />
-              <item name="01 Basic Algorithm" type="462c0819:PsiDirectoryNode" />
-              <item name="16 Caesars Cipher" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="Free Code Camp" type="b2602c69:ProjectViewProjectNode" />
@@ -238,7 +198,7 @@
     <frame x="0" y="0" width="1440" height="900" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.23104435" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.23104435" />
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="right" id="Cargo" order="3" />
       <window_info anchor="bottom" id="Event Log" order="7" side_tool="true" />
@@ -247,7 +207,7 @@
       <window_info anchor="bottom" id="Version Control" order="7" />
       <window_info anchor="bottom" id="Run" order="2" weight="0.32889965" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info anchor="bottom" id="Terminal" order="7" weight="0.32889965" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="7" visible="true" weight="0.32889965" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -496,8 +456,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/JS/01 Basic Algorithm/16 Caesars Cipher/ceaser_cipher.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="441">
-          <caret line="21" column="13" selection-start-line="21" selection-start-column="13" selection-end-line="21" selection-end-column="13" />
+        <state relative-caret-position="462">
+          <caret line="22" column="89" selection-start-line="22" selection-start-column="89" selection-end-line="22" selection-end-column="89" />
         </state>
       </provider>
     </entry>
